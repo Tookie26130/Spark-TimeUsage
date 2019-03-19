@@ -1,0 +1,3 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/Tookie/Works/wewyse/coursera/assignments/timeusage/}root/products {file:/home/Tookie/Works/wewyse/coursera/assignments/timeusage/}root/test:products
+submit david.galy26@gmail.com it1pAD0n562UZVo6
